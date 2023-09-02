@@ -1,0 +1,11 @@
+vehicles=["cycle","bike","car","bus"]
+vehicles.remove("bus")
+print(vehicles)
+vehicles.pop(1)
+print(vehicles)
+vehicles.sort()
+print(vehicles)
+vehicles.reverse()
+print(vehicles)
+vehicles.clear()
+print(vehicles)
